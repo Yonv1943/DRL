@@ -1,0 +1,292 @@
+python3 uav_crossroad_v4.py 
+   lamb1357 [1.         0.40432965 0.6136725  0.39222388]
+0 Rwd -0.354  Var 1.00e+00   max_veh  87  uav_pos_z 1 24.28   pow 0.026  bdw 4.706
+1 Rwd -0.508  Var 1.00e+00   max_veh 180  uav_pos_z 4 6.00   pow 0.016  bdw 1.900
+2 Rwd -0.517  Var 1.00e+00   max_veh 127  uav_pos_z 4 150.00   pow 0.039  bdw 5.629
+3 Rwd -0.424  Var 1.00e+00   max_veh 131  uav_pos_z 4 124.90   pow 0.038  bdw 3.065
+4 Rwd -0.474  Var 1.00e+00   max_veh 120  uav_pos_z 3 55.03   pow 0.025  bdw 3.142
+5 Rwd -0.477  Var 1.00e+00   max_veh 193  uav_pos_z 4 33.11   pow 0.023  bdw 2.105
+6 Rwd -0.487  Var 1.00e+00   max_veh 144  uav_pos_z 1 52.93   pow 0.018  bdw 3.103
+7 Rwd -0.430  Var 1.00e+00   max_veh 160  uav_pos_z 1 58.08   pow 0.018  bdw 2.932
+   lamb1357 [0.45772302 0.85275197 1.         0.98316308]
+8 Rwd -0.848  Var 1.00e+00   max_veh 179  uav_pos_z 2 73.20   pow 0.018  bdw 3.566
+9 Rwd -0.768  Var 1.00e+00   max_veh 170  uav_pos_z 1 150.00   pow 0.017  bdw 2.670
+10 Rwd -0.794  Var 1.00e+00   max_veh 152  uav_pos_z 1 150.00   pow 0.031  bdw 4.198
+11 Rwd -0.849  Var 1.00e+00   max_veh 134  uav_pos_z 1 6.00   pow 0.014  bdw 2.762
+12 Rwd -0.753  Var 1.00e+00   max_veh 136  uav_pos_z 2 150.00   pow 0.038  bdw 4.371
+13 Rwd -0.841  Var 1.00e+00   max_veh  91  uav_pos_z 0 51.19   pow 0.022  bdw 3.468
+14 Rwd -0.759  Var 1.00e+00   max_veh 116  uav_pos_z 1 150.00   pow 0.057  bdw 3.800
+15 Rwd -0.788  Var 1.00e+00   max_veh 119  uav_pos_z 1 150.00   pow 0.017  bdw 5.361
+   lamb1357 [0.81523253 1.         0.4871572  0.3200135 ]
+16 Rwd -0.382  Var 1.00e+00   max_veh 139  uav_pos_z 1 150.00   pow 0.029  bdw 8.739
+17 Rwd -0.550  Var 1.00e+00   max_veh 166  uav_pos_z 5 120.76   pow 0.025  bdw 3.991
+18 Rwd -0.508  Var 1.00e+00   max_veh 116  uav_pos_z 1 6.00   pow 0.030  bdw 15.388
+19 Rwd -0.466  Var 1.00e+00   max_veh 162  uav_pos_z 3 72.70   pow 0.022  bdw 20.603
+20 Rwd -0.478  Var 1.00e+00   max_veh 182  uav_pos_z 2 6.00   pow 0.076  bdw 5.107
+21 Rwd -0.506  Var 1.00e+00   max_veh 123  uav_pos_z 3 81.30   pow 0.087  bdw 5.078
+22 Rwd -0.474  Var 1.00e+00   max_veh 109  uav_pos_z 2 124.52   pow 0.062  bdw 5.057
+23 Rwd -0.500  Var 1.00e+00   max_veh 162  uav_pos_z 7 150.00   pow 0.026  bdw 16.265
+   lamb1357 [0.8324838  0.87359409 1.         0.97871162]
+24 Rwd -0.826  Var 1.00e+00   max_veh 201  uav_pos_z 2 20.80   pow 0.013  bdw 3.993
+25 Rwd -0.794  Var 1.00e+00   max_veh 137  uav_pos_z 2 150.00   pow 0.018  bdw 4.364
+26 Rwd -0.813  Var 1.00e+00   max_veh  91  uav_pos_z 1 149.10   pow 0.021  bdw 4.412
+27 Rwd -0.804  Var 1.00e+00   max_veh 173  uav_pos_z 2 150.00   pow 0.013  bdw 2.859
+28 Rwd -0.752  Var 1.00e+00   max_veh 104  uav_pos_z 1 87.17   pow 0.014  bdw 3.707
+29 Rwd -0.827  Var 1.00e+00   max_veh 163  uav_pos_z 1 101.57   pow 0.015  bdw 5.847
+30 Rwd -0.832  Var 1.00e+00   max_veh 133  uav_pos_z 0 150.00   pow 0.021  bdw 4.870
+31 Rwd -0.838  Var 1.00e+00   max_veh 172  uav_pos_z 1 92.51   pow 0.037  bdw 3.244
+   lamb1357 [0.67472666 0.83609148 1.         0.41836383]
+32 Rwd -0.737  Var 1.00e+00   max_veh 116  uav_pos_z 7 122.84   pow 0.024  bdw 5.816
+33 Rwd -0.693  Var 1.00e+00   max_veh 105  uav_pos_z 0 150.00   pow 0.018  bdw 3.958
+34 Rwd -0.754  Var 1.00e+00   max_veh 173  uav_pos_z 1 49.72   pow 0.024  bdw 8.315
+35 Rwd -0.744  Var 1.00e+00   max_veh 138  uav_pos_z 5 147.31   pow 0.014  bdw 8.122
+36 Rwd -0.755  Var 1.00e+00   max_veh  95  uav_pos_z 7 118.92   pow 0.042  bdw 5.026
+37 Rwd -0.755  Var 1.00e+00   max_veh 115  uav_pos_z 2 150.00   pow 0.021  bdw 4.085
+38 Rwd -0.743  Var 1.00e+00   max_veh 109  uav_pos_z 1 150.00   pow 0.016  bdw 7.694
+39 Rwd -0.798  Var 9.76e-01   max_veh 191  uav_pos_z 0 150.00   pow 0.062  bdw 3.388
+   lamb1357 [0.52000966 1.         0.85970141 0.64701165]
+40 Rwd -0.857  Var 9.52e-01   max_veh 240  uav_pos_z 2 150.00   pow 0.056  bdw 2.842
+41 Rwd -0.837  Var 9.28e-01   max_veh 192  uav_pos_z 2 150.00   pow 0.082  bdw 3.182
+42 Rwd -0.886  Var 9.04e-01   max_veh 172  uav_pos_z 2 147.73   pow 0.067  bdw 3.246
+43 Rwd -0.842  Var 8.81e-01   max_veh 112  uav_pos_z 2 150.00   pow 0.055  bdw 5.688
+44 Rwd -0.818  Var 8.59e-01   max_veh 121  uav_pos_z 0 150.00   pow 0.042  bdw 4.360
+45 Rwd -0.894  Var 8.37e-01   max_veh 186  uav_pos_z 0 132.79   pow 0.074  bdw 4.227
+46 Rwd -0.884  Var 8.16e-01   max_veh 177  uav_pos_z 7 142.09   pow 0.036  bdw 3.339
+47 Rwd -0.429  Var 7.95e-01   max_veh 164  uav_pos_z 0 73.07   pow 0.025  bdw 7.058
+   lamb1357 [0.30679372 0.9846423  1.         0.72093781]
+48 Rwd 0.057  Var 7.75e-01   max_veh 127  uav_pos_z 6 6.00   pow 0.019  bdw 7.587
+49 Rwd 0.128  Var 7.56e-01   max_veh  98  uav_pos_z 2 6.00   pow 0.034  bdw 5.322
+50 Rwd 0.001  Var 7.37e-01   max_veh 164  uav_pos_z 2 6.00   pow 0.034  bdw 6.452
+51 Rwd -0.009  Var 7.18e-01   max_veh 130  uav_pos_z 6 14.39   pow 0.027  bdw 6.772
+52 Rwd 0.034  Var 7.00e-01   max_veh 140  uav_pos_z 0 101.02   pow 0.031  bdw 5.993
+53 Rwd 0.160  Var 6.82e-01   max_veh 101  uav_pos_z 6 6.00   pow 0.027  bdw 7.392
+54 Rwd 0.161  Var 6.65e-01   max_veh  96  uav_pos_z 2 55.68   pow 0.027  bdw 5.695
+55 Rwd 0.112  Var 6.48e-01   max_veh 117  uav_pos_z 2 56.18   pow 0.033  bdw 4.491
+   lamb1357 [0.72416813 1.         0.42319386 0.316792  ]
+56 Rwd 0.155  Var 6.32e-01   max_veh 115  uav_pos_z 2 6.00   pow 0.040  bdw 14.845
+57 Rwd 0.371  Var 6.16e-01   max_veh 158  uav_pos_z 2 62.07   pow 0.030  bdw 18.063
+58 Rwd 0.189  Var 6.00e-01   max_veh 137  uav_pos_z 6 52.53   pow 0.030  bdw 9.023
+59 Rwd 0.317  Var 5.85e-01   max_veh 140  uav_pos_z 2 6.00   pow 0.033  bdw 6.982
+60 Rwd 0.352  Var 5.70e-01   max_veh 125  uav_pos_z 6 40.65   pow 0.032  bdw 16.443
+61 Rwd 0.205  Var 5.56e-01   max_veh 140  uav_pos_z 2 6.00   pow 0.027  bdw 12.743
+62 Rwd 0.256  Var 5.42e-01   max_veh 148  uav_pos_z 2 26.61   pow 0.029  bdw 13.747
+63 Rwd 0.268  Var 5.28e-01   max_veh 145  uav_pos_z 2 43.93   pow 0.030  bdw 10.628
+   lamb1357 [0.35042132 1.         0.95454816 0.38979939]
+64 Rwd 0.227  Var 5.15e-01   max_veh  96  uav_pos_z 2 34.66   pow 0.036  bdw 11.748
+65 Rwd 0.173  Var 5.02e-01   max_veh 129  uav_pos_z 6 29.08   pow 0.027  bdw 10.361
+66 Rwd 0.264  Var 4.89e-01   max_veh 110  uav_pos_z 2 6.00   pow 0.031  bdw 9.598
+67 Rwd 0.321  Var 4.77e-01   max_veh 165  uav_pos_z 6 8.27   pow 0.029  bdw 11.152
+68 Rwd 0.183  Var 4.65e-01   max_veh 133  uav_pos_z 2 16.00   pow 0.026  bdw 14.669
+69 Rwd 0.290  Var 4.53e-01   max_veh 175  uav_pos_z 2 6.00   pow 0.019  bdw 6.355
+70 Rwd 0.286  Var 4.41e-01   max_veh 148  uav_pos_z 6 36.37   pow 0.031  bdw 6.612
+71 Rwd 0.362  Var 4.30e-01   max_veh 134  uav_pos_z 2 6.00   pow 0.028  bdw 9.781
+   lamb1357 [1.         0.5154941  0.37670149 0.7173707 ]
+72 Rwd 0.357  Var 4.19e-01   max_veh 108  uav_pos_z 2 26.25   pow 0.024  bdw 3.464
+73 Rwd 0.249  Var 4.09e-01   max_veh  97  uav_pos_z 6 6.00   pow 0.021  bdw 3.155
+74 Rwd 0.198  Var 3.99e-01   max_veh 124  uav_pos_z 2 39.83   pow 0.019  bdw 2.608
+75 Rwd 0.343  Var 3.88e-01   max_veh 172  uav_pos_z 2 6.00   pow 0.015  bdw 2.102
+76 Rwd 0.378  Var 3.79e-01   max_veh 134  uav_pos_z 2 6.00   pow 0.019  bdw 2.603
+77 Rwd 0.262  Var 3.69e-01   max_veh 167  uav_pos_z 6 25.54   pow 0.019  bdw 2.263
+78 Rwd 0.349  Var 3.60e-01   max_veh  98  uav_pos_z 2 22.53   pow 0.020  bdw 3.062
+79 Rwd 0.332  Var 3.51e-01   max_veh 103  uav_pos_z 2 6.00   pow 0.021  bdw 3.286
+   lamb1357 [0.64015676 0.54709161 1.         0.35408357]
+80 Rwd 0.442  Var 3.42e-01   max_veh  50  uav_pos_z 6 10.91   pow 0.041  bdw 10.203
+81 Rwd 0.345  Var 3.33e-01   max_veh  53  uav_pos_z 2 10.96   pow 0.042  bdw 7.849
+82 Rwd 0.361  Var 3.25e-01   max_veh 130  uav_pos_z 2 23.27   pow 0.043  bdw 10.172
+83 Rwd 0.359  Var 3.16e-01   max_veh 174  uav_pos_z 6 10.11   pow 0.039  bdw 11.330
+84 Rwd 0.431  Var 3.08e-01   max_veh 105  uav_pos_z 2 15.25   pow 0.044  bdw 7.927
+85 Rwd 0.401  Var 3.01e-01   max_veh 152  uav_pos_z 6 6.00   pow 0.043  bdw 11.463
+86 Rwd 0.327  Var 2.93e-01   max_veh 178  uav_pos_z 2 43.31   pow 0.042  bdw 5.160
+87 Rwd 0.440  Var 2.86e-01   max_veh  96  uav_pos_z 6 6.00   pow 0.045  bdw 8.939
+   lamb1357 [0.58475928 0.32928854 0.7155072  1.        ]
+88 Rwd 0.386  Var 2.78e-01   max_veh 121  uav_pos_z 6 6.00   pow 0.033  bdw 5.077
+89 Rwd 0.494  Var 2.71e-01   max_veh 112  uav_pos_z 2 6.00   pow 0.041  bdw 5.780
+90 Rwd 0.397  Var 2.65e-01   max_veh  96  uav_pos_z 6 6.00   pow 0.042  bdw 6.737
+91 Rwd 0.450  Var 2.58e-01   max_veh 142  uav_pos_z 2 28.76   pow 0.031  bdw 4.675
+92 Rwd 0.516  Var 2.51e-01   max_veh 110  uav_pos_z 6 6.00   pow 0.041  bdw 6.163
+93 Rwd 0.408  Var 2.45e-01   max_veh 163  uav_pos_z 2 21.44   pow 0.026  bdw 4.154
+94 Rwd 0.541  Var 2.39e-01   max_veh 101  uav_pos_z 2 6.00   pow 0.041  bdw 6.203
+95 Rwd 0.472  Var 2.33e-01   max_veh 144  uav_pos_z 2 6.00   pow 0.032  bdw 5.229
+   lamb1357 [0.68147895 1.         0.73879233 0.49681346]
+96 Rwd 0.492  Var 2.27e-01   max_veh 155  uav_pos_z 2 6.00   pow 0.026  bdw 9.842
+97 Rwd 0.509  Var 2.21e-01   max_veh  94  uav_pos_z 2 6.00   pow 0.036  bdw 8.782
+98 Rwd 0.534  Var 2.16e-01   max_veh 104  uav_pos_z 6 6.00   pow 0.036  bdw 10.211
+99 Rwd 0.551  Var 2.10e-01   max_veh 124  uav_pos_z 2 7.22   pow 0.027  bdw 9.232
+100 Rwd 0.492  Var 2.05e-01   max_veh 147  uav_pos_z 6 6.00   pow 0.027  bdw 9.262
+101 Rwd 0.504  Var 2.00e-01   max_veh 156  uav_pos_z 2 6.00   pow 0.025  bdw 10.302
+102 Rwd 0.485  Var 1.95e-01   max_veh 146  uav_pos_z 2 6.00   pow 0.027  bdw 10.724
+103 Rwd 0.517  Var 1.90e-01   max_veh 117  uav_pos_z 6 6.00   pow 0.033  bdw 10.452
+   lamb1357 [0.31956    1.         0.3222115  0.50765235]
+104 Rwd 0.536  Var 1.85e-01   max_veh 174  uav_pos_z 6 25.04   pow 0.026  bdw 13.907
+105 Rwd 0.524  Var 1.80e-01   max_veh 158  uav_pos_z 2 6.00   pow 0.028  bdw 11.505
+106 Rwd 0.565  Var 1.76e-01   max_veh 142  uav_pos_z 6 13.22   pow 0.030  bdw 12.966
+107 Rwd 0.534  Var 1.71e-01   max_veh 194  uav_pos_z 2 11.18   pow 0.024  bdw 11.929
+108 Rwd 0.568  Var 1.67e-01   max_veh 169  uav_pos_z 6 12.87   pow 0.027  bdw 12.302
+109 Rwd 0.536  Var 1.63e-01   max_veh 171  uav_pos_z 2 7.68   pow 0.029  bdw 12.075
+110 Rwd 0.588  Var 1.59e-01   max_veh 125  uav_pos_z 2 6.00   pow 0.034  bdw 12.505
+111 Rwd 0.571  Var 1.55e-01   max_veh 190  uav_pos_z 2 23.83   pow 0.024  bdw 13.600
+   lamb1357 [1.         0.79603517 0.57816539 0.81533184]
+112 Rwd 0.472  Var 1.51e-01   max_veh 163  uav_pos_z 2 16.97   pow 0.015  bdw 2.259
+113 Rwd 0.463  Var 1.47e-01   max_veh 149  uav_pos_z 6 12.27   pow 0.016  bdw 2.346
+114 Rwd 0.512  Var 1.43e-01   max_veh  76  uav_pos_z 2 6.00   pow 0.022  bdw 3.839
+115 Rwd 0.511  Var 1.39e-01   max_veh 143  uav_pos_z 6 14.87   pow 0.016  bdw 2.486
+116 Rwd 0.490  Var 1.36e-01   max_veh 135  uav_pos_z 6 6.00   pow 0.017  bdw 2.481
+117 Rwd 0.501  Var 1.33e-01   max_veh  81  uav_pos_z 6 6.00   pow 0.021  bdw 3.285
+118 Rwd 0.514  Var 1.29e-01   max_veh 127  uav_pos_z 2 24.87   pow 0.018  bdw 2.617
+119 Rwd 0.515  Var 1.26e-01   max_veh 133  uav_pos_z 2 6.00   pow 0.018  bdw 2.617
+   lamb1357 [1.         0.45987063 0.90827022 0.67933483]
+120 Rwd 0.518  Var 1.23e-01   max_veh 187  uav_pos_z 6 13.46   pow 0.015  bdw 2.041
+121 Rwd 0.501  Var 1.20e-01   max_veh 228  uav_pos_z 6 7.13   pow 0.013  bdw 1.796
+122 Rwd 0.507  Var 1.17e-01   max_veh 131  uav_pos_z 2 6.00   pow 0.016  bdw 2.383
+123 Rwd 0.517  Var 1.14e-01   max_veh  84  uav_pos_z 6 6.00   pow 0.021  bdw 3.125
+124 Rwd 0.538  Var 1.11e-01   max_veh 108  uav_pos_z 6 6.00   pow 0.018  bdw 2.689
+125 Rwd 0.494  Var 1.08e-01   max_veh 220  uav_pos_z 2 6.00   pow 0.014  bdw 1.853
+126 Rwd 0.518  Var 1.05e-01   max_veh 149  uav_pos_z 2 17.15   pow 0.016  bdw 2.264
+127 Rwd 0.539  Var 1.03e-01   max_veh 118  uav_pos_z 6 6.00   pow 0.018  bdw 2.601
+   lamb1357 [0.76717254 0.48257557 0.33468201 1.        ]
+128 Rwd 0.553  Var 1.00e-01   max_veh 129  uav_pos_z 2 13.61   pow 0.030  bdw 4.952
+129 Rwd 0.590  Var 9.75e-02   max_veh 142  uav_pos_z 2 6.00   pow 0.031  bdw 4.875
+130 Rwd 0.591  Var 9.50e-02   max_veh 102  uav_pos_z 2 6.00   pow 0.041  bdw 6.407
+131 Rwd 0.580  Var 9.26e-02   max_veh 151  uav_pos_z 2 6.00   pow 0.029  bdw 4.627
+132 Rwd 0.568  Var 9.03e-02   max_veh 192  uav_pos_z 6 6.00   pow 0.024  bdw 3.299
+133 Rwd 0.563  Var 8.80e-02   max_veh 162  uav_pos_z 2 6.00   pow 0.027  bdw 3.972
+134 Rwd 0.586  Var 8.58e-02   max_veh 161  uav_pos_z 2 6.00   pow 0.027  bdw 3.997
+135 Rwd 0.576  Var 8.36e-02   max_veh 190  uav_pos_z 2 12.90   pow 0.024  bdw 3.488
+   lamb1357 [0.58744281 0.61846073 1.         0.47509526]
+136 Rwd 0.626  Var 8.15e-02   max_veh 137  uav_pos_z 6 6.00   pow 0.039  bdw 8.666
+137 Rwd 0.648  Var 7.94e-02   max_veh 109  uav_pos_z 2 6.00   pow 0.039  bdw 10.003
+138 Rwd 0.646  Var 7.74e-02   max_veh 117  uav_pos_z 6 9.31   pow 0.038  bdw 9.577
+139 Rwd 0.633  Var 7.55e-02   max_veh 136  uav_pos_z 6 6.00   pow 0.036  bdw 9.097
+140 Rwd 0.646  Var 7.36e-02   max_veh 112  uav_pos_z 6 9.01   pow 0.039  bdw 9.239
+141 Rwd 0.659  Var 7.17e-02   max_veh  93  uav_pos_z 2 9.37   pow 0.039  bdw 9.353
+142 Rwd 0.654  Var 6.99e-02   max_veh 109  uav_pos_z 6 6.00   pow 0.038  bdw 8.387
+143 Rwd 0.632  Var 6.81e-02   max_veh 215  uav_pos_z 6 11.74   pow 0.037  bdw 8.457
+   lamb1357 [0.90806706 1.         0.7852285  0.31894795]
+144 Rwd 0.587  Var 6.64e-02   max_veh 171  uav_pos_z 2 6.00   pow 0.024  bdw 10.759
+145 Rwd 0.593  Var 6.47e-02   max_veh 138  uav_pos_z 6 9.29   pow 0.025  bdw 8.214
+146 Rwd 0.607  Var 6.31e-02   max_veh  89  uav_pos_z 2 12.99   pow 0.037  bdw 10.904
+147 Rwd 0.616  Var 6.15e-02   max_veh  97  uav_pos_z 2 6.00   pow 0.034  bdw 8.358
+148 Rwd 0.620  Var 5.99e-02   max_veh 156  uav_pos_z 6 11.53   pow 0.022  bdw 7.158
+149 Rwd 0.625  Var 5.84e-02   max_veh 101  uav_pos_z 6 6.53   pow 0.034  bdw 9.740
+150 Rwd 0.608  Var 5.69e-02   max_veh 140  uav_pos_z 2 6.00   pow 0.025  bdw 7.886
+151 Rwd 0.612  Var 5.55e-02   max_veh 127  uav_pos_z 6 6.00   pow 0.026  bdw 7.472
+   lamb1357 [0.65375829 1.         0.76989828 0.49521888]
+152 Rwd 0.625  Var 5.41e-02   max_veh 190  uav_pos_z 6 6.42   pow 0.021  bdw 9.283
+153 Rwd 0.616  Var 5.27e-02   max_veh 181  uav_pos_z 6 6.09   pow 0.022  bdw 9.920
+154 Rwd 0.639  Var 5.14e-02   max_veh 118  uav_pos_z 6 6.00   pow 0.030  bdw 9.583
+155 Rwd 0.624  Var 5.01e-02   max_veh 124  uav_pos_z 2 6.00   pow 0.031  bdw 10.056
+156 Rwd 0.589  Var 4.88e-02   max_veh 197  uav_pos_z 6 6.00   pow 0.021  bdw 10.167
+157 Rwd 0.637  Var 4.76e-02   max_veh  96  uav_pos_z 2 6.00   pow 0.033  bdw 9.002
+158 Rwd 0.623  Var 4.64e-02   max_veh 163  uav_pos_z 6 8.17   pow 0.026  bdw 11.233
+159 Rwd 0.632  Var 4.52e-02   max_veh 151  uav_pos_z 2 6.00   pow 0.027  bdw 9.754
+   lamb1357 [0.64303347 0.92470538 0.45807207 1.        ]
+160 Rwd 0.596  Var 4.41e-02   max_veh 134  uav_pos_z 2 6.66   pow 0.027  bdw 5.239
+161 Rwd 0.624  Var 4.30e-02   max_veh  92  uav_pos_z 6 6.00   pow 0.034  bdw 7.468
+162 Rwd 0.585  Var 4.19e-02   max_veh 149  uav_pos_z 2 6.00   pow 0.026  bdw 4.659
+163 Rwd 0.569  Var 4.08e-02   max_veh 161  uav_pos_z 2 6.00   pow 0.024  bdw 4.101
+164 Rwd 0.563  Var 3.98e-02   max_veh 172  uav_pos_z 2 6.00   pow 0.022  bdw 3.813
+165 Rwd 0.612  Var 3.88e-02   max_veh 107  uav_pos_z 2 8.71   pow 0.032  bdw 6.623
+166 Rwd 0.590  Var 3.78e-02   max_veh 135  uav_pos_z 2 8.29   pow 0.027  bdw 5.016
+167 Rwd 0.629  Var 3.68e-02   max_veh 112  uav_pos_z 2 6.00   pow 0.030  bdw 6.301
+   lamb1357 [0.84079964 0.4089189  1.         0.69819892]
+168 Rwd 0.657  Var 3.59e-02   max_veh 121  uav_pos_z 2 6.00   pow 0.036  bdw 6.638
+169 Rwd 0.657  Var 3.50e-02   max_veh 170  uav_pos_z 2 8.95   pow 0.035  bdw 6.211
+170 Rwd 0.651  Var 3.41e-02   max_veh 158  uav_pos_z 6 6.00   pow 0.036  bdw 6.841
+171 Rwd 0.656  Var 3.33e-02   max_veh 101  uav_pos_z 2 9.03   pow 0.035  bdw 6.277
+172 Rwd 0.653  Var 3.24e-02   max_veh 122  uav_pos_z 6 6.00   pow 0.035  bdw 5.829
+173 Rwd 0.658  Var 3.16e-02   max_veh 123  uav_pos_z 2 6.74   pow 0.035  bdw 6.357
+174 Rwd 0.657  Var 3.08e-02   max_veh 107  uav_pos_z 2 6.13   pow 0.035  bdw 5.778
+175 Rwd 0.653  Var 3.00e-02   max_veh 119  uav_pos_z 2 6.00   pow 0.035  bdw 6.054
+   lamb1357 [0.78083863 0.36334202 0.5849668  1.        ]
+176 Rwd 0.616  Var 2.93e-02   max_veh 169  uav_pos_z 2 6.00   pow 0.026  bdw 3.667
+177 Rwd 0.590  Var 2.85e-02   max_veh 132  uav_pos_z 2 6.00   pow 0.032  bdw 4.673
+178 Rwd 0.642  Var 2.78e-02   max_veh 118  uav_pos_z 2 6.64   pow 0.034  bdw 5.160
+179 Rwd 0.644  Var 2.71e-02   max_veh 112  uav_pos_z 2 6.00   pow 0.040  bdw 6.129
+180 Rwd 0.605  Var 2.64e-02   max_veh 121  uav_pos_z 6 8.16   pow 0.033  bdw 4.944
+181 Rwd 0.596  Var 2.57e-02   max_veh 200  uav_pos_z 6 6.26   pow 0.024  bdw 3.291
+182 Rwd 0.587  Var 2.51e-02   max_veh 211  uav_pos_z 6 6.20   pow 0.022  bdw 3.062
+183 Rwd 0.586  Var 2.45e-02   max_veh 190  uav_pos_z 2 6.00   pow 0.025  bdw 3.402
+   lamb1357 [0.85376813 1.         0.43634692 0.82864814]
+184 Rwd 0.568  Var 2.38e-02   max_veh 197  uav_pos_z 2 8.94   pow 0.020  bdw 7.384
+185 Rwd 0.600  Var 2.32e-02   max_veh 184  uav_pos_z 2 6.00   pow 0.021  bdw 7.451
+186 Rwd 0.544  Var 2.27e-02   max_veh 272  uav_pos_z 2 6.00   pow 0.016  bdw 8.551
+187 Rwd 0.573  Var 2.21e-02   max_veh 225  uav_pos_z 6 6.74   pow 0.019  bdw 8.108
+188 Rwd 0.603  Var 2.15e-02   max_veh 126  uav_pos_z 2 6.00   pow 0.028  bdw 7.813
+189 Rwd 0.616  Var 2.10e-02   max_veh  98  uav_pos_z 6 6.44   pow 0.032  bdw 7.166
+190 Rwd 0.612  Var 2.04e-02   max_veh 128  uav_pos_z 6 7.35   pow 0.025  bdw 5.900
+191 Rwd 0.589  Var 1.99e-02   max_veh 193  uav_pos_z 2 6.00   pow 0.020  bdw 7.577
+   lamb1357 [0.49519467 1.         0.33432285 0.85804115]
+192 Rwd 0.613  Var 1.94e-02   max_veh 105  uav_pos_z 2 6.21   pow 0.035  bdw 9.291
+193 Rwd 0.617  Var 1.89e-02   max_veh 169  uav_pos_z 2 6.00   pow 0.023  bdw 8.305
+194 Rwd 0.614  Var 1.85e-02   max_veh 116  uav_pos_z 2 6.00   pow 0.033  bdw 9.495
+195 Rwd 0.626  Var 1.80e-02   max_veh 145  uav_pos_z 2 6.81   pow 0.027  bdw 8.828
+196 Rwd 0.634  Var 1.75e-02   max_veh 139  uav_pos_z 2 7.43   pow 0.028  bdw 8.702
+197 Rwd 0.595  Var 1.71e-02   max_veh 188  uav_pos_z 6 7.35   pow 0.022  bdw 8.942
+198 Rwd 0.610  Var 1.67e-02   max_veh 146  uav_pos_z 2 7.23   pow 0.026  bdw 8.323
+199 Rwd 0.631  Var 1.62e-02   max_veh 106  uav_pos_z 6 6.67   pow 0.033  bdw 8.569
+   lamb1357 [1.         0.7599348  0.63612999 0.42547371]
+200 Rwd 0.560  Var 1.58e-02   max_veh 191  uav_pos_z 2 6.00   pow 0.015  bdw 2.306
+201 Rwd 0.612  Var 1.54e-02   max_veh 109  uav_pos_z 2 7.32   pow 0.021  bdw 3.202
+202 Rwd 0.578  Var 1.50e-02   max_veh 172  uav_pos_z 2 6.00   pow 0.016  bdw 2.420
+203 Rwd 0.584  Var 1.47e-02   max_veh 129  uav_pos_z 6 6.76   pow 0.019  bdw 2.884
+204 Rwd 0.579  Var 1.43e-02   max_veh 158  uav_pos_z 2 7.15   pow 0.017  bdw 2.603
+205 Rwd 0.584  Var 1.39e-02   max_veh 149  uav_pos_z 6 7.54   pow 0.017  bdw 2.587
+206 Rwd 0.583  Var 1.36e-02   max_veh 148  uav_pos_z 2 6.00   pow 0.018  bdw 2.750
+207 Rwd 0.569  Var 1.32e-02   max_veh 113  uav_pos_z 6 7.35   pow 0.020  bdw 3.173
+   lamb1357 [0.38982253 1.         0.4189044  0.55080679]
+208 Rwd 0.690  Var 1.29e-02   max_veh  99  uav_pos_z 6 6.44   pow 0.039  bdw 12.246
+209 Rwd 0.657  Var 1.26e-02   max_veh 159  uav_pos_z 2 6.00   pow 0.027  bdw 12.286
+210 Rwd 0.618  Var 1.23e-02   max_veh 137  uav_pos_z 2 6.00   pow 0.031  bdw 12.698
+211 Rwd 0.657  Var 1.19e-02   max_veh 138  uav_pos_z 2 7.07   pow 0.032  bdw 13.008
+212 Rwd 0.588  Var 1.16e-02   max_veh 194  uav_pos_z 2 6.61   pow 0.024  bdw 12.494
+213 Rwd 0.643  Var 1.13e-02   max_veh 198  uav_pos_z 6 6.54   pow 0.023  bdw 13.021
+214 Rwd 0.610  Var 1.11e-02   max_veh 222  uav_pos_z 6 7.52   pow 0.021  bdw 12.551
+215 Rwd 0.678  Var 1.08e-02   max_veh 111  uav_pos_z 2 6.53   pow 0.038  bdw 12.899
+   lamb1357 [0.50362458 0.91153402 1.         0.69433075]
+216 Rwd 0.657  Var 1.05e-02   max_veh 185  uav_pos_z 6 6.76   pow 0.032  bdw 6.996
+217 Rwd 0.672  Var 1.02e-02   max_veh 174  uav_pos_z 2 6.00   pow 0.030  bdw 7.158
+218 Rwd 0.663  Var 9.99e-03   max_veh 140  uav_pos_z 2 6.44   pow 0.029  bdw 6.864
+219 Rwd 0.661  Var 9.73e-03   max_veh 187  uav_pos_z 2 7.02   pow 0.032  bdw 7.694
+220 Rwd 0.671  Var 9.49e-03   max_veh  95  uav_pos_z 2 6.00   pow 0.031  bdw 7.875
+221 Rwd 0.668  Var 9.25e-03   max_veh 150  uav_pos_z 2 6.01   pow 0.031  bdw 7.439
+222 Rwd 0.675  Var 9.01e-03   max_veh 146  uav_pos_z 2 6.00   pow 0.031  bdw 7.505
+223 Rwd 0.676  Var 8.79e-03   max_veh 149  uav_pos_z 6 6.84   pow 0.029  bdw 7.009
+   lamb1357 [1.         0.67524881 0.57498182 0.60632858]
+224 Rwd 0.605  Var 8.56e-03   max_veh 144  uav_pos_z 2 6.00   pow 0.018  bdw 2.618
+225 Rwd 0.577  Var 8.35e-03   max_veh 135  uav_pos_z 2 6.65   pow 0.018  bdw 2.655
+226 Rwd 0.574  Var 8.14e-03   max_veh 159  uav_pos_z 6 6.00   pow 0.017  bdw 2.521
+227 Rwd 0.615  Var 7.93e-03   max_veh 117  uav_pos_z 2 6.77   pow 0.019  bdw 2.811
+228 Rwd 0.545  Var 7.73e-03   max_veh 146  uav_pos_z 6 6.17   pow 0.017  bdw 2.535
+229 Rwd 0.578  Var 7.53e-03   max_veh  84  uav_pos_z 2 6.00   pow 0.022  bdw 3.470
+230 Rwd 0.581  Var 7.34e-03   max_veh 177  uav_pos_z 2 6.00   pow 0.016  bdw 2.300
+231 Rwd 0.549  Var 7.16e-03   max_veh 212  uav_pos_z 2 6.00   pow 0.015  bdw 2.062
+   lamb1357 [0.32089691 1.         0.38273716 0.8439395 ]
+232 Rwd 0.636  Var 6.98e-03   max_veh 136  uav_pos_z 6 6.00   pow 0.029  bdw 9.308
+233 Rwd 0.591  Var 6.80e-03   max_veh 191  uav_pos_z 6 6.13   pow 0.021  bdw 8.765
+234 Rwd 0.629  Var 6.63e-03   max_veh 139  uav_pos_z 6 6.68   pow 0.028  bdw 9.089
+235 Rwd 0.563  Var 6.46e-03   max_veh 263  uav_pos_z 2 6.12   pow 0.017  bdw 9.140
+236 Rwd 0.602  Var 6.30e-03   max_veh 218  uav_pos_z 6 6.10   pow 0.020  bdw 9.318
+237 Rwd 0.650  Var 6.14e-03   max_veh 116  uav_pos_z 2 6.27   pow 0.030  bdw 8.834
+238 Rwd 0.614  Var 5.98e-03   max_veh 164  uav_pos_z 2 6.00   pow 0.025  bdw 9.848
+239 Rwd 0.635  Var 5.83e-03   max_veh 205  uav_pos_z 2 6.77   pow 0.021  bdw 9.175
+   lamb1357 [0.7271854  0.85912325 0.35526936 1.        ]
+240 Rwd 0.571  Var 5.69e-03   max_veh 185  uav_pos_z 2 6.27   pow 0.021  bdw 3.531
+241 Rwd 0.580  Var 5.54e-03   max_veh 217  uav_pos_z 6 6.00   pow 0.019  bdw 2.920
+242 Rwd 0.619  Var 5.40e-03   max_veh 162  uav_pos_z 6 6.11   pow 0.024  bdw 4.083
+243 Rwd 0.630  Var 5.27e-03   max_veh 104  uav_pos_z 6 6.10   pow 0.032  bdw 6.443
+244 Rwd 0.589  Var 5.13e-03   max_veh 226  uav_pos_z 6 6.00   pow 0.018  bdw 2.814
+245 Rwd 0.608  Var 5.00e-03   max_veh 140  uav_pos_z 2 6.00   pow 0.028  bdw 4.993
+246 Rwd 0.558  Var 4.88e-03   max_veh 206  uav_pos_z 2 6.21   pow 0.020  bdw 3.175
+247 Rwd 0.603  Var 4.75e-03   max_veh 112  uav_pos_z 2 6.05   pow 0.031  bdw 6.138
+   lamb1357 [1.         0.40137207 0.31434261 0.9317474 ]
+248 Rwd 0.570  Var 4.63e-03   max_veh 172  uav_pos_z 6 6.00   pow 0.017  bdw 2.209
+249 Rwd 0.542  Var 4.52e-03   max_veh 203  uav_pos_z 2 6.00   pow 0.015  bdw 1.970
+250 Rwd 0.563  Var 4.40e-03   max_veh 179  uav_pos_z 2 6.30   pow 0.016  bdw 2.083
+251 Rwd 0.581  Var 4.29e-03   max_veh 142  uav_pos_z 2 6.00   pow 0.018  bdw 2.356
+252 Rwd 0.596  Var 4.18e-03   max_veh 103  uav_pos_z 6 6.00   pow 0.023  bdw 3.109
+253 Rwd 0.554  Var 4.08e-03   max_veh 186  uav_pos_z 2 6.27   pow 0.016  bdw 2.082
+254 Rwd 0.577  Var 3.97e-03   max_veh 124  uav_pos_z 6 6.00   pow 0.019  bdw 2.596
+255 Rwd 0.605  Var 3.87e-03   max_veh  94  uav_pos_z 2 6.00   pow 0.023  bdw 3.224
+Running time:  708.0174250602722
+SAVE loggers to: V4_uav_info.npy
+
